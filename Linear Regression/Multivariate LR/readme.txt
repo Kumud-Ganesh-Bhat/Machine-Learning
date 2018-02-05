@@ -16,6 +16,7 @@ Files used in this exercise
 3. computeCostMulti.m      %Cost function for linear regression with multiple variables
 4. gradientDescentMulti.m  %Gradient Descent for linear regression with multiple variables
 5. normalEqn.m             %Function to compute normal equation
+6. trainingdata2.txt       %Dataset for linear regression with multiple variables
 
 Also, related graphs/plots have been uploaded
 
